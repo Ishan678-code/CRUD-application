@@ -1,5 +1,5 @@
 # Description
-It creates a resume from the data that is stored in database.
+This program demonstrates the use of CRUD operation.It creates a resume from the data that is stored in database.
 
 # Tools Used
 - MySQL for storing data.
