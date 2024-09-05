@@ -7,7 +7,7 @@ It creates a resume from the data that is stored in database.
 - Postman for testing APIs.
 
   # Installation
-  -git clone https://github.com/Ishan678-code/database.git
-  -cd database
+  - git clone https://github.com/Ishan678-code/database.git
+  - cd database
   - npm install
     
